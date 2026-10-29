@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-native-safe-area-context": "^5.11.0",
+    "react-native-vision-camera": "^5.2.4"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.2.0"
+  }
+}
